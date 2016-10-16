@@ -93,6 +93,7 @@ Você sabe dizer quanto tempo você levaria para contar até seis sextilhões, s
 
 > **Você levaria 19 QUATRILHÕES de anos!!!!!!!!!**
 
+![Homer se assuntado](https://media.giphy.com/media/vjGyYSsF765wc/giphy.gif)
 
 
 Observe os cáculos:
