@@ -33,6 +33,8 @@ TUDO que existe possui massa, e tudo que existe é  composto por átomos.
 
 > Sim, você, eu somos feitos de átomos!!! 
 
+![fin](https://media.giphy.com/media/Fbyam9ZAJ3J1m/giphy.gif)
+
 
 Cada átomo possui uma massa específica indicada na tabela periódica, como estamos falando da água vamos então buscar na tabela sua massa atômica
 
