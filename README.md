@@ -1,6 +1,8 @@
 # VOCÊ SABE O QUE É O MOL E QUAL O TAMANHO DO ÁTOMO?
 
 
+![o atomo](https://media.giphy.com/media/GPqEGJXBaLJXW/giphy.gif)
+
 Este é o primeiro artigo que escrevo para meu blog, e claro não poderia ser outro assunto a não ser o ÁTOMO!!
 
 
@@ -142,4 +144,6 @@ Se você tivesse um mol de moedas de 1 Real, quanto você acha que elas “pesar
 Agora você conseguiu mensurar o tamanho do átomo?? 
 
 
-É muito pequeno né gente??? 
+> É muito pequeno né gente??? 
+
+![omg](https://media.giphy.com/media/11jIcdl19gWkAE/giphy.gif)
