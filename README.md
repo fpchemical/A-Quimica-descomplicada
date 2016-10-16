@@ -116,6 +116,7 @@ Ou seja, 1 mol de segundos são 19.000.000.000.000 anos.
 
 > Em apenas 18g de água temos seis sextilhões de moléculas!! 
 
+![wat](https://media.giphy.com/media/11KKYhQleauPVS/giphy.gif)
 
 
 Aí vai algumas curiosidades sobre o mol que vão permitir a abstração necessária para você entender em que dimensão de tamanho que o átomo se encontra
