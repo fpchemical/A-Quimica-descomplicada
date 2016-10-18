@@ -26,14 +26,13 @@ São elas:
 
 ![Molécula Piramidal] (https://upload.wikimedia.org/wikipedia/commons/e/e9/Pyramidal-3D-balls.png)
 
-##Bipirâmide (Ex: PF5 pentafluoreto de fósforo)
-
-![Molécula Bipirâmide](http://www.wikiwand.com/es/Geometr%C3%ADa_molecular_bipiramidal_trigonal)
-
 ##Octaédrica (Ex: SF6 hexafluoreto de enxofre)
 
 ![Molécula Octaédrica](http://2.bp.blogspot.com/-nkB1epOaaIo/UqehETzRqVI/AAAAAAAAAxY/75Cf9bjbvJs/s1600/molekul+oktahedral.png)
 
+##Bipirâmide (Ex: PF5 pentafluoreto de fósforo)
+
+![Molécula Bipirâmide](http://www.wikiwand.com/es/Geometr%C3%ADa_molecular_bipiramidal_trigonal)
 
 Os átomos fazem essas ligações para entrar em equilíbrio, cada átomo tem determinado número de élétrons orbitando em torno do seu núcleo e esses elétrons estão dispostos em camadas que comportam um número limitado de életrons e o número varia de acordo com a quantidade de camadas. Um átomo em equilíbrio tem sua última camada completa de elétrons assim como os gases nobres que não se ligam com outros átomos porque todos os elétrons que precisam, o que não é o caso dos outros átomos da tabela periódica que não tem sua última camada coḿpleta, alguns podem doar elétrons e outros podem ganhar, mas sempre com a mesma intenção: preencher a última camada para entrar em equilíbrio. 
 
