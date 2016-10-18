@@ -38,7 +38,7 @@ Octaédrica (Ex: SF6 hexafluoreto de enxofre)
 Os átomos fazem essas ligações para entrar em equilíbrio, cada átomo tem determinado número de élétrons orbitando em torno do seu núcleo e esses elétrons estão dispostos em camadas que comportam um número limitado de életrons e o número varia de acordo com a quantidade de camadas. Um átomo em equilíbrio tem sua última camada completa de elétrons assim como os gases nobres que não se ligam com outros átomos porque todos os elétrons que precisam, o que não é o caso dos outros átomos da tabela periódica que não tem sua última camada coḿpleta, alguns podem doar elétrons e outros podem ganhar, mas sempre com a mesma intenção: preencher a última camada para entrar em equilíbrio. 
 
 
-Conclusão: Você, eu e o universo só existimos porque os átomos precisam de elétrons!!!!! 
+####Conclusão: Você, eu e o universo só existimos porque os átomos precisam de elétrons!!!!! 
 
 
 
