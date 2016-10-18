@@ -28,7 +28,7 @@ São elas:
 
 ##Bipirâmide (Ex: PF5 pentafluoreto de fósforo)
 
-![Molécula Bipirâmide] (https://en.wikipedia.org/wiki/Trigonal_bipyramidal_molecular_geometry#/media/File:Trigonal-bipyramidal-3D-balls.png)
+![Molécula Bipirâmide](http://www.wikiwand.com/es/Geometr%C3%ADa_molecular_bipiramidal_trigonal)
 
 ##Octaédrica (Ex: SF6 hexafluoreto de enxofre)
 
