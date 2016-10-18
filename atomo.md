@@ -1,4 +1,4 @@
-O ÁTOMO
+##O ÁTOMO
 
 As primeiras menções sobre o átomo datam da antiguidade indiana no século VI a.C, mais tarde a ideia surgiu no Ocidente (460 a.C. — 370 a.C) pelo filósofo pré-socrático Leucipo e foi seu discípulo Demócrito quem deu o nome "Átomo", mas foi Platão quem relatou a teoria geométrica dos átomos e disse que o mundo era formado de estruturas matemáticas, e ele estava completamente CERTO!!!! 
 
