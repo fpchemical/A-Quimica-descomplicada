@@ -6,18 +6,29 @@ TUDO, tudo que existe é formado pela ligação entre os átomos e essas ligaç�
 
 São elas:
 
-Linear 
+Linear (Ex: CO2 gás carbônico)
 
-![Molécula linear (ex: CO2)](http://3.bp.blogspot.com/-8_oa3ytvRw4/TxAoWuBfrWI/AAAAAAAAANs/q5jSlmHooIA/s1600/800px-Linear-3D-balls.png)]
-Angular
+![Molécula linear (http://3.bp.blogspot.com/-8_oa3ytvRw4/TxAoWuBfrWI/AAAAAAAAANs/q5jSlmHooIA/s1600/800px-Linear-3D-balls.png)]
 
-Trigonal plana ou triangular
+Angular (Ex: H2O água)
 
-Tetraédrica
+![Molécula angular (https://upload.wikimedia.org/wikipedia/commons/4/47/Bent-3D-balls.png)]
 
-Piramidal
+Trigonal plana ou triangular (Ex: H2CO formol)
 
-Bipirâmide de base quadrada
+![Molécula Trigonal plana (https://upload.wikimedia.org/wikipedia/commons/6/6c/AX3E0-3D-balls.png)]
+
+Tetraédrica (Ex: CH4 metano ou o famoso PUM! kkkkkk)
+
+![Molécula Tetraédrica (http://4.bp.blogspot.com/-wLblcn2oXK4/Uqeg9bQGz4I/AAAAAAAAAxQ/WxSDHmfkC7A/s1600/molekul+tetrahedral.png)]
+
+Piramidal (Ex: NH3 amônia) 
+
+![Molécula Piramidal (https://upload.wikimedia.org/wikipedia/commons/e/e9/Pyramidal-3D-balls.png)]
+
+Bipirâmide (Ex: PF5 pentafluoreto de fósforo
+
+![Molécula Bipirâmide (https://en.wikipedia.org/wiki/Trigonal_bipyramidal_molecular_geometry#/media/File:Trigonal-bipyramidal-3D-balls.png)]
 
 Octaédrica
 
