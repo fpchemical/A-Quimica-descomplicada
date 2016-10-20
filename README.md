@@ -78,7 +78,7 @@ Se eu pegar uma balança e colocar um copo e depois encher até medir 18 gramas 
 
 Como já falei, o mol é a quantidade de matéria presente em determinada substância
 
-Para ficar mais simples escreverei um artigo falando somente sobre como o mol, por hora o mol servirá para explicar sobre proporsões.
+Para ficar mais simples escreverei um artigo falando somente sobre como o mol, por hora o mol servirá para explicar sobre proporções.
 
 
 Um mol é o equivalente a Seis Sextilhões de moléculas, podemos indicar também dessa forma: 6 X 1023 moléculas.
