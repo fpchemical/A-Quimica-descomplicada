@@ -1,19 +1,20 @@
-ESTEREOQUÍMICA
+###ESTEREOQUÍMICA
 
 
 A Química Orgânica trata da relação existente entre a estrutura molecular e as propriedades físicas de moléculas de carbono. A parte da Química Orgânica que trata da estrutura em três dimensões é chamada de estereoquímica. Um aspecto importante na estereoquímica é a existência do estereoisomerismo. Estruturas isoméricas que diferem entre si unicamente pelo arranjo tridimensional dos seus substituintes são chamados de estereoisômeros. A ocorrência de assimetria (ou simetria) é uma importante característica de figuras geométricas que tem duas ou três dimensões.
 
 A quiralidade é um atributo geométrico molecular, diz-se que o objeto que não se pode ser sobreposto à sua imagem especular é quiral, enquanto que um objeto aquiral é aquele em que sua imagem especular pode ser sobreposta ao objeto original. Um centro assimétrico é aquele no qual os substituintes ligados a ele são diferentes entre si, o exemplo mais simples que podemos citar são nossas mãos que representam moléculas quirais, pois sua imagem não pode ser sobreposta à sua imagem especular, e a cadeira que representa uma molécula aquiral, pois sua imagem pode ser sobreposta à sua imagem especular, observe:
 
-
+![Quiralidade](http://alunosonline.uol.com.br/upload/conteudo/images/maos-assimetricas.jpg)
 
 Agora observe a quiralidade nas moléculas:
 
+![Quiralidade das moléculas](http://brasilescola.uol.com.br/imagens/biografia/alanina.gif)
 
 
 O tipo mais comum de uma molécula quiral contém um carbono tetraédrico, no qual estão ligados quatro diferentes agrupamentos, observe o exemplo:
 
-
+![Moléculas de carbonos quirais](http://brasilescola.uol.com.br/upload/conteudo/images/moleculas-quirais.jpg)
 
 
 O átomo de carbono é o centro estereogênico ou assimétrico da molécula, uma molécula desse tipo pode existir em dois arranjos espaciais diferentes, que são estereoisômeros um do outro. As duas estruturas, entretanto, não podem ser sobrepostas. Esses tipos de estereoisômeros são chamados enantiômeros (do grego, enantio = oposto).
