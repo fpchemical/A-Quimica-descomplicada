@@ -137,7 +137,7 @@ Se tivessemos 1 mol de feijão, o Brasil ficaria coberto com uma camada de 15 km
 
 
 
-Se você tivesse um mol de moedas de 1 Real, quanto você acha que elas “pesariam”? Algo como 2 x 1018 toneladas.
+Se você tivesse um mol de moedas de 1 Real, quanto você acha que elas “pesariam”? Algo como 2 x 10^18 toneladas.
 
 
 
