@@ -5,9 +5,9 @@ Você já viu essa imagem?
 ![água e óleo](https://subsidiosebd.files.wordpress.com/2012/02/wm_img18401.jpg)
 
 
-Acredito que já é comum que as pessoas saibam que água e o óleo não se misturam, não é? 
+Acredito que já é comum que as pessoas saibam que a água e o óleo não se misturam, não é? 
 
-Posso afirmar também que todo mundo usa detergente para remover o óleo que fica na louça.
+Posso afirmar também que todo mundo algum dia já usou detergente para remover a gordura que fica na louça.
 
 Agora eu lhe pergunto!!
 
