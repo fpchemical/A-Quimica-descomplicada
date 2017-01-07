@@ -1,4 +1,4 @@
-## Explicando o detergente biodegradável
+## Explicando o detergente
 
 Você já viu essa imagem?
 
