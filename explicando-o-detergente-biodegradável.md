@@ -80,4 +80,4 @@ Vou dar uma palhinha pra vc!! Olhe que legal
 
 ![](http://i.giphy.com/YjOUnGQSSPPtC.gif)
 
-![](http://i.giphy.com/llFbE3QMeNX0Y.gif)
+![](https://cldup.com/pXOZdJ6gDg.gif)
