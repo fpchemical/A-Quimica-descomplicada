@@ -9,7 +9,7 @@ Acredito que já é comum que as pessoas saibam que a água e o óleo não se mi
 
 Posso afirmar também que todo mundo algum dia já usou detergente para remover a gordura que fica na louça.
 
-Agora eu lhe pergunto!!
+**Agora eu lhe pergunto:**
 
 > Se o óleo e água não se misturam, do que é feito o detergente? Já que ele se mistura com os dois.
 
@@ -38,23 +38,28 @@ Observe:
 Sobre polaridade de moléculas leia: [polaridade das moléculas]()
 
 
-Quando lavamos a louça, a parte apolar (cauda hidrofóbica) da molécula interage com o óleo (sujeira) ao mesmo tempo em que a parte polar (cabeça hidrofílica) reage com a água, neste momento são formadas as micelas, um agregado das moléculas do detergente
+Quando lavamos a louça, a parte apolar (cauda hidrofóbica) da molécula interage com o óleo (sujeira) ao mesmo tempo em que a parte polar (cabeça hidrofílica) reage com a água, neste momento são formadas as **micelas**, um agregado das moléculas do detergente
 
 ![Micela](http://www.pontociencia.org.br/imgdb/experimentos/7c02cd43fb96fc3165de15719f1b2042.jpg)
 
 
-A água “enxerga” apenas a parte externa da micela, que é polar, assim ela é facilmente levada pela água arrastando a gordura que está aprisionada no interior da sua formação
+A água “enxerga” apenas a parte externa da micela, que é polar, assim ela é facilmente levada arrastando a gordura que está aprisionada no interior da sua formação
 
 
 ![Micela](http://i.giphy.com/743wNH4tEZBgk.gif) 
 
 
-O Processo de formação das micelas é denominado emulsificação onde o detergente atua como emulsificante fazendo com que o óleo se disperse na água.
+O Processo de formação das micelas é denominado emulsificação, onde o detergente atua como emulsificante fazendo com que o óleo se disperse na água.
 
 
 ## Química na cozinha
 
-Você pode observar as micelas com uma experiência caseira com produtos que tem na sua cozinha, essa prática se chama **ovo psicodélico** 
+
+Você pode observar as micelas com uma experiência caseira com materiais da sua cozinha   
+
+
+**Ovo psicodélico**
+
 
 **Materiais necessários**
 
