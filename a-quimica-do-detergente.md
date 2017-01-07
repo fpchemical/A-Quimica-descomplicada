@@ -64,7 +64,7 @@ O Processo de formação das micelas é denominado **emulsificação**, onde o d
 Você pode observar as micelas com uma experiência caseira utilizando materiais da sua cozinha   
 
 
-**Ovo psicodélico**
+**Leite psicodélico**
 
 
 **Materiais necessários**
@@ -78,10 +78,12 @@ Você pode observar as micelas com uma experiência caseira utilizando materiais
 
 Cubra o fundo do prato com o leite (não há necessidade de encher muito), em seguida pingue algumas gotas de corante cuidando para que elas fiquem longe uma da outra. 
 
+![gotas separadas](http://s2.static.brasilescola.uol.com.br/img/2012/07/leite-com-corantes.jpg)
+
 Agora vem a melhor parte, prepare a câmera!!!
 
 Pingue lentamente uma ou duas gotas de detergente sobre o leite e observe o que acontece
 
 Vou dar uma palhinha pra vc!! Olhe que legal 
 
-![Leite com corante](http://imgur.com/a/MumSV)
+![Leite psicodélico](http://www2.bioqmed.ufrj.br/ciencia/Explos12.jpg)
