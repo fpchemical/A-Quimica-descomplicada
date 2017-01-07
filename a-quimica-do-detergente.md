@@ -84,6 +84,4 @@ Agora vem a melhor parte, prepare a câmera!!!
 
 Pingue lentamente uma ou duas gotas de detergente sobre o leite e observe o que acontece
 
-Vou dar uma palhinha pra vc!! Olhe que legal 
-
 ![Leite psicodélico](http://www2.bioqmed.ufrj.br/ciencia/Explos12.jpg)
