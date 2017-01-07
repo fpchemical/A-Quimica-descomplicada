@@ -42,7 +42,8 @@ Quando lavamos a louça, a parte apolar (cauda hidrofóbica) da molécula intera
 
 ![Micela](http://www.pontociencia.org.br/imgdb/experimentos/7c02cd43fb96fc3165de15719f1b2042.jpg)
 
-A micela é uma gotícula microscópica de gordura envolvida por moléculas do detergente, a água “enxerga” apenas a parte externa da micela, que é polar, assim a micela é facilmente levada pela água arrastando a gordura que está aprisionada no interior da sua formação
+
+A água “enxerga” apenas a parte externa da micela, que é polar, assim ela é facilmente levada pela água arrastando a gordura que está aprisionada no interior da sua formação
 
 
 ![Micela](http://i.giphy.com/743wNH4tEZBgk.gif) 
