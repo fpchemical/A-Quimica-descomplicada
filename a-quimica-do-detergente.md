@@ -19,11 +19,17 @@ Hoje em dia os detergentes são biodegradáveis para serem facilmente transforma
 ![espuma de detergente no rio](http://www.projetoagua.dape.net/rio%20Tiet%EA%20-%20Bom%20Jesus%20da%20Pirapora.jpg)
 
 
+
 Sei que vc ficou curioso para saber mais sobre o detergente, então vou explicar a química do detergente!!
+
+
 
 Primeiro observe a molécula dos dois tipos de detergente:
 
+
 ![molécula detergentes](https://www.resumoescolar.com.br/wp-content/imagens/detergente-biodegradavel.jpg)
+
+
 
 A diferença entre os dois está na composição, o biodegradável é feito a partir de materiais de decomposição natural como plantas, árvores e animais. O não-biodegradável tem formulação artificial e sintética, são feitos à base de petróleo, latas, resíduos da indústria e até mesmo de garrafas de vidro. 
 
@@ -49,13 +55,13 @@ A água “enxerga” apenas a parte externa da micela, que é polar, assim ela 
 ![Micela](http://i.giphy.com/743wNH4tEZBgk.gif) 
 
 
-O Processo de formação das micelas é denominado emulsificação, onde o detergente atua como emulsificante fazendo com que o óleo se disperse na água.
+O Processo de formação das micelas é denominado **emulsificação**, onde o detergente atua como emulsificante fazendo com que o óleo se disperse na água.
 
 
 ## Química na cozinha
 
 
-Você pode observar as micelas com uma experiência caseira com materiais da sua cozinha   
+Você pode observar as micelas com uma experiência caseira utilizando materiais da sua cozinha   
 
 
 **Ovo psicodélico**
@@ -78,4 +84,4 @@ Pingue lentamente uma ou duas gotas de detergente sobre o leite e observe o que 
 
 Vou dar uma palhinha pra vc!! Olhe que legal 
 
-![Leite com corante](http://i.giphy.com/YjOUnGQSSPPtC.gif)
+![Leite com corante](http://imgur.com/a/MumSV)
