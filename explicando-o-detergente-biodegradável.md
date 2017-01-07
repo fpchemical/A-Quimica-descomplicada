@@ -19,7 +19,7 @@ Hoje em dia os detergentes são biodegradáveis para serem facilmente transforma
 ![espuma de detergente no rio](http://www.projetoagua.dape.net/rio%20Tiet%EA%20-%20Bom%20Jesus%20da%20Pirapora.jpg)
 
 
-Sei que vc está curioso para saber mais sobre o detergente, então vou explicar a química do detergente!!
+Sei que vc ficou curioso para saber mais sobre o detergente, então vou explicar a química do detergente!!
 
 Primeiro observe a molécula dos dois tipos de detergente:
 
