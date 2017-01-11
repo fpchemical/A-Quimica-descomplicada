@@ -41,7 +41,7 @@ Observe:
 ![Molécula do detergente](http://brasilescola.uol.com.br/upload/e/estrutura_sabao%20-%20b.e.jpg)
 
 
-Sobre polaridade de moléculas leia: [polaridade das moléculas]()
+Sobre polaridade de moléculas leia: [polaridade das moléculas](https://github.com/fpchemical/A-Quimica-descomplicada/blob/master/polaridade.md)
 
 
 Quando lavamos a louça, a parte apolar (cauda hidrofóbica) da molécula interage com o óleo (sujeira) ao mesmo tempo em que a parte polar (cabeça hidrofílica) reage com a água, neste momento são formadas as **micelas**, um agregado das moléculas do detergente
