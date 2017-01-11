@@ -24,6 +24,13 @@ Uma molécula é **apolar** quando há uma distribuição homogênia de carga, s
 ![Molécula de gás carbônico](http://webeduc.mec.gov.br/portaldoprofessor/quimica/cd1/conteudo/aulas/12_aula/imagens/aula_04_setembro_09_021.jpg)
 
 
+Ta, mas e o que diabos é carga parcial negativa, positiva e eletronegatividade? 
+
+Pois bem, eu explico!! 
+
+**Eletronegatividade** corresponde à capacidade que o núcleo de um átomo tem de atrair os elétrons envolvidos em uma ligação química e nem todos os átomos que existem são eletronegativos. 
+
+
 
 Macroscopicamente falando pode-se observar a atuação dessa propriedade nas moléculas quando presenciamos a água não se misturar com o óleo. Na orgânica, minha matéria preferida (rsrsrs), costumamos dizer que semelhante dissolve semelhante, portanto não haverá solubilidade entre compostos polares e apolares. 
 
