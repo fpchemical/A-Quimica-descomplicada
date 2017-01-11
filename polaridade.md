@@ -28,8 +28,10 @@ Ta, mas e o que diabos é carga parcial negativa, positiva e eletronegatividade?
 
 Pois bem, eu explico!! 
 
-**Eletronegatividade** corresponde à capacidade que o núcleo de um átomo tem de atrair os elétrons envolvidos em uma ligação química e nem todos os átomos que existem são eletronegativos. 
+**Eletronegatividade** corresponde à capacidade que o núcleo de um átomo tem de atrair os elétrons envolvidos em uma ligação química e nem todos os átomos que existem são eletronegativos. Quando falamos que o átomo está com carga parcial negativa isso quer dizer que ele está com excesso de elétrons em sua nuvem eletrônica, observe:
 
+
+![Molécula de ácido clorídrico](http://mundoeducacao.bol.uol.com.br/upload/conteudo/hcl.jpg)
 
 
 Macroscopicamente falando pode-se observar a atuação dessa propriedade nas moléculas quando presenciamos a água não se misturar com o óleo. Na orgânica, minha matéria preferida (rsrsrs), costumamos dizer que semelhante dissolve semelhante, portanto não haverá solubilidade entre compostos polares e apolares. 
