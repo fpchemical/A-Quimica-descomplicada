@@ -17,7 +17,7 @@ Agora uma imagem que diz mais que mil palavras:
 ![soluto/solvente](http://www.soq.com.br/conteudos/em/solucoes/index_clip_image003.gif)
 
 
-Vamos usar a água como exemplo, os efeitos dos solutos nas propriedades físicas da água podem ser vistos em algumas situações comuns como impedir o congelamento da água dos radiadores de carros em lugares muito frios, gelar mais rapidamente aquela cervejinha, derreter a camada de gelo formada nas ruas em lugares mais frios, a água parar de ferver à 100C e muitas outras coisas mais. 
+Vamos usar a água como exemplo, os efeitos dos solutos nas propriedades físicas da água podem ser vistos em algumas situações comuns como impedir o congelamento da água dos radiadores de carros em lugares muito frios, gelar mais rapidamente aquela cervejinha, derreter a camada de gelo formada nas ruas em lugares mais frios, a água parar de ferver à 100°C e muitas outras coisas mais. 
 
 
 Os solutos são classificados em iônicos e moleculares
@@ -46,7 +46,7 @@ As três primeiras foram estudadas pelo cientista francês François Marie Raoul
 
 Propriedades coligativas das soluções são propriedades físicas que se somam pela presença de um ou mais solutos. Isso significa que a quantidade, e não a natureza (tamanho,estrutura molecular ou massa) das partículas que estão juntas na solução é que irá influenciar na formação dessas propriedades
 
-Todas as propriedades coligativas surgem da diminuição do potencial químico do líquido solvente como resultado da presença do soluto. A diminuição do potencial químico do solvente implica aumento da temperatura em que ocorrerá o equilíbrio líquido-vapor (**o ponto de ebulição é aumentado**) e diminui a temperatura em que ocorre o equilíbrio sólido-líquido (o ponto de fusão é diminuído).
+Todas as propriedades coligativas surgem da diminuição do potencial químico do líquido solvente como resultado da presença do soluto. A diminuição do potencial químico do solvente implica aumento da temperatura em que ocorrerá o equilíbrio líquido-vapor (**o ponto de ebulição é aumentado**) e diminui a temperatura em que ocorre o equilíbrio sólido-líquido (**o ponto de fusão é diminuído**).
 
 ![mudança de fases da matéria na CNTP](http://www.colegioweb.com.br/wp-content/uploads/21420.jpg)
 
