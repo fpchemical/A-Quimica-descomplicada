@@ -51,4 +51,7 @@ Todas as propriedades coligativas surgem da diminuição do potencial químico d
 ![mudança de fases da matéria na CNTP](http://www.colegioweb.com.br/wp-content/uploads/21420.jpg)
 
 
+O estudo dessas quatro áreas é muito importante para o desenvolvimento das nossas indústrias, pois podem determinar a qualidade de qualquer produto por meio de testes laboratoriais, desde resistência, tempo de prateleira, elasticidade, degradação, reciclagem entre outros
+
+Você poderá ler separadamente em outros artigos sobre as quatro áreas estudadas das propriedades coligativas, é só acessar meu github!!! 
 
