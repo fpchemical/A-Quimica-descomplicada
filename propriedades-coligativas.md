@@ -4,11 +4,13 @@ São propriedades físicas que se apresentam em uma solução e tem relação di
 
 Tá, mas o que é uma solução?
 
-> Solução é qualquer mistura homogênia. Água, refrigerante, combustíveis e produtos de limpeza são alguns exemplos de soluções
+> Solução é qualquer mistura homogênia. 
 
-Quando falamos de soluções devemos lembrar que na Química temos algumas terminações que são utilizadas nesse contexto, explicarei
+> Água, refrigerante, combustíveis e produtos de limpeza são alguns exemplos de soluções
 
-A soluçõa é uma mistura homogênia formada da síntese de um soluto com um solvente
+Quando falamos de soluções devemos lembrar que na Química temos algumas terminações que são utilizadas nesse contexto, explicarei:
+
+> **A solução é uma mistura homogênia formada da síntese de um soluto com um solvente.**
 
 ![solução](http://mundoeducacao.bol.uol.com.br/upload/conteudo_legenda/dcec57c01661c6fb8eba08e5dcdcdaae.jpg)
 
@@ -17,10 +19,13 @@ Agora uma imagem que diz mais que mil palavras:
 ![soluto/solvente](http://www.soq.com.br/conteudos/em/solucoes/index_clip_image003.gif)
 
 
-Vamos usar a água como exemplo, os efeitos dos solutos nas propriedades físicas da água podem ser vistos em algumas situações comuns como impedir o congelamento da água dos radiadores de carros em lugares muito frios, gelar mais rapidamente aquela cervejinha, derreter a camada de gelo formada nas ruas em lugares mais frios, a água parar de ferver à 100°C e muitas outras coisas mais. 
+Vamos usar a água como exemplo, os efeitos dos solutos nas propriedades físicas da água podem ser vistos em algumas situações comuns como: impedir o congelamento da água dos radiadores de carros em lugares muito frios, gelar mais rapidamente aquela cervejinha, derreter a camada de gelo formada nas ruas em lugares mais frios, a água parar de ferver à 100°C e muitas outras coisas. 
 
 
-Os solutos são classificados em iônicos e moleculares
+**Os solutos são classificados em: iônicos e moleculares.**
+
+
+## Iônicos
 
 Os iônicos são aqueles que possuem ligações iônicas, um exemplo é o sal de cozinha, NaCl.
 
